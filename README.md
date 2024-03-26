@@ -8,6 +8,6 @@
 
 # 파란색이 앞으로 와야 정면이 된다. 
 # RGB --> x, y, z (red:x축 green:y축 blue: z축 ) 
-![image](https://github.com/kangsh2001/spline-memo/assets/163283929/b652552d-0db3-49b1-82ef-3ca9433a6cb8)
+# ctrl + d --> 복사하기 붙여넣기
 
-ctrl + d --> 복사하기 붙여넣기
+![image](https://github.com/kangsh2001/spline-memo/assets/163283929/b652552d-0db3-49b1-82ef-3ca9433a6cb8)
