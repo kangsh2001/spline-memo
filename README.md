@@ -14,3 +14,8 @@
 
 # 기본값
 # ![image](https://github.com/kangsh2001/spline-memo/assets/163283929/9a41bcf9-7719-4291-a7c1-9dffc9fdb728)
+
+# 조절선을 선택할때 주위를 전체 선택하고자 하면 먼저 조절선 하나를 선택하고 그조절선을 더블클릭하면 전체조전선이 선택된다. 
+
+#![image](https://github.com/kangsh2001/spline-memo/assets/163283929/a3b93968-973a-440c-a589-e43377c883f2)
+#![image](https://github.com/kangsh2001/spline-memo/assets/163283929/f5e95ff5-72fd-4c21-b20e-0b9608ce152c)
