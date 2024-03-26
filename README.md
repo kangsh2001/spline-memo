@@ -10,4 +10,7 @@
 # RGB --> x, y, z (red:x축 green:y축 blue: z축 ) 
 # ctrl + d --> 복사하기 붙여넣기
 
-![image](https://github.com/kangsh2001/spline-memo/assets/163283929/b652552d-0db3-49b1-82ef-3ca9433a6cb8)
+#![image](https://github.com/kangsh2001/spline-memo/assets/163283929/b652552d-0db3-49b1-82ef-3ca9433a6cb8)
+
+# 기본값
+# ![image](https://github.com/kangsh2001/spline-memo/assets/163283929/9a41bcf9-7719-4291-a7c1-9dffc9fdb728)
